@@ -2,10 +2,6 @@ import tkinter as Tkinter
 from datetime import datetime, timezone
 import datetime as dt
 
-import tkinter as Tkinter
-from datetime import datetime, timezone
-import datetime as dt
-
 # Colocando data e hora no cadastro
 mes = dt.datetime.now().strftime("%m")
 dia = dt.datetime.now().strftime("%d")
